@@ -1,0 +1,3 @@
+rootProject.name = 'therapy_guide_1157'
+
+include ':app'
